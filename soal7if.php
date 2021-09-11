@@ -1,0 +1,6 @@
+<?php
+
+echo"mengubah suhu";
+
+
+?>
